@@ -1,7 +1,8 @@
-.container {display: flex; min-height: 100vh; margin: 3em;}
+.container {display: flex; margin: 3em; font-family: 'Roboto', sans-serif;}
 .principal {align-items: center; margin: 7em; justify-content: center;}
 .contenido {justify-content: center; align-items: center;}
+.contactos {flex-direction: column; align-items: center; min-height: 100vh;}
 .foto {border-radius: 50%; width: 4em;}
-.Nuevochat {background-color:plum; padding: 1em; margin: 3em;}
+.Nuevochat {background-color:#A491D2; padding: 1em; margin: 3em; color: white;}
 .contacto {margin: 3em;}
 .maria {margin: 3em;}
