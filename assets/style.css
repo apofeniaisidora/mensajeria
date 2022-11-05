@@ -1,0 +1,7 @@
+.container {display: flex; min-height: 100vh; margin: 3em;}
+.principal {align-items: center; margin: 7em; justify-content: center;}
+.contenido {justify-content: center; align-items: center;}
+.foto {border-radius: 50%; width: 4em;}
+.Nuevochat {background-color:plum; padding: 1em; margin: 3em;}
+.contacto {margin: 3em;}
+.maria {margin: 3em;}
